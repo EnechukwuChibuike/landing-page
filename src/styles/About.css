@@ -1,0 +1,44 @@
+.sectionOne {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+  height: 40vh;
+}
+
+.About {
+  height: 80vh;
+  background-color: rgb(255, 72, 0);
+}
+
+.point {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.point div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  background-color: white;
+  color: rgb(255, 72, 0);
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.point b {
+  margin-top: 20px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  height: 36vh;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
+}

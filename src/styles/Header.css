@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 150px;
+  color: white;
+  align-items: center;
+  height: 15vh;
+}
+
+.p1 {
+  font-weight: bold;
+  font-size: 18px;
+}

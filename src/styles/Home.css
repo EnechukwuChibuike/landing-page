@@ -1,0 +1,17 @@
+.Home {
+  padding-left: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 85vh;
+  color: white;
+}
+
+.Home h1 {
+  font-size: 50px;
+  margin-bottom: 5px;
+}
+
+.Home p {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,10 @@
+.App {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(8, 8, 8, 0.5),
+      rgba(13, 13, 14, 0.5)
+    ),
+    url("./images/background.jpg");
+  height: 100vh;
+  background-size: cover;
+}
